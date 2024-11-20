@@ -1,0 +1,7 @@
+.env
+# remaining add activate.bat file to schedule task over a specific time period
+/venv
+/.vscode
+/.dist
+/coverletter_gen/__pycache__
+/linkedin_scraping/__pycache__
